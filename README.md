@@ -1,5 +1,8 @@
-# react-jwt-authentication-example
+# react-jwt-authentication-sample
+### ReactJs sample app with fake JWT authentification
 
-React (without Redux) - JWT Authentication Tutorial & Example
-
-To see a demo and further details go to http://jasonwatmore.com/post/2019/04/06/react-jwt-authentication-tutorial-example
+<code>cd /react-jwt-authentication-sample</code> 
+<br />
+<code>npm install</code>
+<br />
+<code>npm start</code>
